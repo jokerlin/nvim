@@ -28,6 +28,8 @@ require("plugin-config.indent-blankline")
 require("plugin-config.nvim-autopairs")
 require("plugin-config.comment")
 require("plugin-config.surround")
+require("plugin-config.toggleterm")
+require("plugin-config.fidget")
 
 -- 内置LSP (新增)
 require("lsp.setup")
